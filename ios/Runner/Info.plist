@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+<key>NSPhotoLibraryUsageDescription</key>
+    <string>This app needs camera access to scan QR codes.</string>
     <key>NSLocationWhenInUseUsageDescription</key>
     <string>We need your location to provide location-based services.</string>
     <key>NSLocationAlwaysUsageDescription</key>
@@ -14,8 +16,6 @@
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
 	<string>Dakeh Service Provider</string>
-	<key>NSPhotoLibraryUsageDescription</key>
-    <string>Photo library permission is required to upload a personal photo.</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>

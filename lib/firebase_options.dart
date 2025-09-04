@@ -51,19 +51,18 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCOi39EfzeeZLvwYdgXULrwuyI1bnTiCBY',
-    appId: '1:684843280031:android:967eecaccc993f622a24aa',
+    appId: '1:684843280031:android:95d64d914812dcf52a24aa',
     messagingSenderId: '684843280031',
     projectId: 'dakeh-58669',
-    storageBucket: 'dakeh-58669.appspot.com',
+    storageBucket: 'dakeh-58669.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyC47rIqJmBW7jb_3wbrKtdQ6drc6vEwURc',
-    appId: '1:684843280031:ios:b223f315c58efa4f2a24aa',
+    appId: '1:684843280031:ios:f7489f75ea3866a92a24aa',
     messagingSenderId: '684843280031',
     projectId: 'dakeh-58669',
-    storageBucket: 'dakeh-58669.appspot.com',
+    storageBucket: 'dakeh-58669.firebasestorage.app',
     iosBundleId: 'com.goldensoft.dakeh.sp.dakehServiceProvider',
   );
-
 }
