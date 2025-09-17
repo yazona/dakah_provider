@@ -13,7 +13,7 @@
 	<key>PROJECT_ID</key>
 	<string>dakeh-58669</string>
 	<key>STORAGE_BUCKET</key>
-	<string>dakeh-58669.appspot.com</string>
+	<string>dakeh-58669.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:684843280031:ios:12be60eca246ad822a24aa</string>
+	<string>1:684843280031:ios:f7489f75ea3866a92a24aa</string>
 </dict>
 </plist>

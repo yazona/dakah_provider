@@ -65,4 +65,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'dakeh-58669.firebasestorage.app',
     iosBundleId: 'com.goldensoft.dakeh.sp.dakehServiceProvider',
   );
+
 }
